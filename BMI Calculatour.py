@@ -7,21 +7,6 @@
 # BMI = mass (kg) / height * height (m)
 # 
 
-# In[3]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[22]:
-
-
 name = input("write your name :")
 mass =int (input("write your wight im Kg :"))
 height =float (input("write your height in M"))
