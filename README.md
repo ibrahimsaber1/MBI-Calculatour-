@@ -42,5 +42,5 @@ python bmi_calculator.py
 - The healthy BMI range is between 18.5 kg/m² and 25 kg/m².
 
 ## References
-- The BMI categories and ranges are based on information from this calculator.
+- The BMI categories and ranges are based on information from [this calculator](https://www.calculator.net/bmi-calculator.html).
 - This README provides an overview of the script, explains how it works, lists the BMI categories, and gives instructions on how to run the script.
